@@ -1,0 +1,5 @@
+after login it automatically take you to '/user'
+
+* and also you can visit '/adminDashboard' if the login using is an 'admin and if the token is still valid;
+
+* The refresh TOKEN captures the (Previous Token before it expires)
